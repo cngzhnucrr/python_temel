@@ -1,0 +1,1 @@
+sorular farklı kaynaklardan alınarak ticari kullanım amacı olmayacak şekilde kod yazmak için kullanılmıştır
