@@ -1,1 +1,2 @@
-btk akademi "Sıfırdan İleri Seviye Python Programlama(SADIK TURAN) " ve " https://www.python.org/doc/ " kaynakları ile ilerleme sağlanmıştır.
+1) "Temelden python" klasöründe 
+btk akademi "Sıfırdan İleri Seviye Python Programlama(SADIK TURAN) " ve " https://www.python.org/doc/ ", " https://www.w3schools.com/python/python_getstarted.asp " kaynakları ile ilerleme sağlanmıştır.
