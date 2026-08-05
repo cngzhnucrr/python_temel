@@ -1,0 +1,1 @@
+btk akademi "Sıfırdan İleri Seviye Python Programlama(SADIK TURAN) " ve " https://www.python.org/doc/ " kaynakları ile ilerleme sağlanmıştır.
